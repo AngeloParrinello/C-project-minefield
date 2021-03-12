@@ -1,0 +1,27 @@
+﻿  board.c
+e:\ing.informatica\programmazione c\cartella elaborati settimanali\elaborato7\elaborato7\board.c(39): warning C4244: 'funzione': conversione da 'time_t' a 'unsigned int'. Possibile perdita di dati.
+e:\ing.informatica\programmazione c\cartella elaborati settimanali\elaborato7\elaborato7\board.c(205): warning C4018: '>': errata corrispondenza tra signed e unsigned
+e:\ing.informatica\programmazione c\cartella elaborati settimanali\elaborato7\elaborato7\board.c(207): warning C4018: '<=': errata corrispondenza tra signed e unsigned
+e:\ing.informatica\programmazione c\cartella elaborati settimanali\elaborato7\elaborato7\board.c(95): warning C4715: 'flag_board': non tutti i percorsi di controllo restituiscono un valore
+display.obj : error LNK2019: riferimento al simbolo esterno attroff non risolto nella funzione display_world
+display.obj : error LNK2019: riferimento al simbolo esterno attron non risolto nella funzione display_world
+display.obj : error LNK2019: riferimento al simbolo esterno cbreak non risolto nella funzione display_open
+display.obj : error LNK2019: riferimento al simbolo esterno curs_set non risolto nella funzione display_open
+display.obj : error LNK2019: riferimento al simbolo esterno endwin non risolto nella funzione display_close
+display.obj : error LNK2019: riferimento al simbolo esterno erase non risolto nella funzione display_gameover
+display.obj : error LNK2019: riferimento al simbolo esterno has_colors non risolto nella funzione display_open
+display.obj : error LNK2019: riferimento al simbolo esterno init_pair non risolto nella funzione display_open
+display.obj : error LNK2019: riferimento al simbolo esterno initscr non risolto nella funzione display_open
+display.obj : error LNK2019: riferimento al simbolo esterno keypad non risolto nella funzione display_open
+display.obj : error LNK2019: riferimento al simbolo esterno mvaddch non risolto nella funzione display_border
+display.obj : error LNK2019: riferimento al simbolo esterno mvprintw non risolto nella funzione display_gameover
+display.obj : error LNK2019: riferimento al simbolo esterno noecho non risolto nella funzione display_open
+display.obj : error LNK2019: riferimento al simbolo esterno refresh non risolto nella funzione display_gameover
+display.obj : error LNK2019: riferimento al simbolo esterno start_color non risolto nella funzione display_open
+display.obj : error LNK2019: riferimento al simbolo esterno timeout non risolto nella funzione display_open
+display.obj : error LNK2019: riferimento al simbolo esterno wgetch non risolto nella funzione display_read
+display.obj : error LNK2001: simbolo esterno __imp_LINES non risolto
+display.obj : error LNK2001: simbolo esterno __imp_COLS non risolto
+display.obj : error LNK2001: simbolo esterno __imp_stdscr non risolto
+E:\Ing.Informatica\Programmazione C\Cartella elaborati settimanali\elaborato7\elaborato7\\pdcurses.lib : warning LNK4272: il tipo 'x86' del computer della libreria è in conflitto con il tipo 'x64' del computer di destinazione
+E:\Ing.Informatica\Programmazione C\Cartella elaborati settimanali\elaborato7\x64\Debug\elaborato7.exe : fatal error LNK1120: 20 esterni non risolti
